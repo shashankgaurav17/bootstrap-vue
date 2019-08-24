@@ -121,8 +121,8 @@ And import Bootstrap and BootstrapVue `css` files:
 
 ```js
 // app.js
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
+import '~bootstrap/dist/css/bootstrap.css'
+import '~bootstrap-vue/dist/bootstrap-vue.css'
 ```
 
 Or import Bootstrap and BootstrapVue `scss` files via a single custom SCSS file:
